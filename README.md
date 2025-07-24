@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # B657 Assignment 1
@@ -231,3 +232,6 @@ The methods we have used till now are after a lots of experimentation and readin
 2.	https://www.researchgate.net/publication/261446574_Solving_Image_Puzzles_with_a_Simple_Quadratic_Programming_Formulation
 3.	https://ieeexplore.ieee.org/document/8126004
 4.	https://ieeexplore.ieee.org/document/6382740
+=======
+# computervision
+>>>>>>> 87763b4074896d078be078b5258645574cb3978d
